@@ -13,7 +13,7 @@
 ## 🔧 使用方法
 
 1. 打开网页
-2. 输入你的 Gmail 地址（如：`example@gmail.com`）
+2. 输入你的 Gmail 地址（如：yewuchen577@gmail.com`）
 3. 点击“生成变体”
 4. 复制结果或导出为 Excel 文件
 5. 实现无限邮箱注册软件
